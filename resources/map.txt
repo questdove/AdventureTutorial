@@ -1,0 +1,8 @@
+			corpCopRoom	
+	findClueRoom	placeholderRoom	corpCopRoom	
+		placeholderRoom		
+corpCopRoom	placeholderRoom	placeholderRoom		
+		homeBase		
+		placeholderRoom	placeholderRoom	findClueRoom
+		placeholderRoom		
+		findClueRoom		
